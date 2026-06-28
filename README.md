@@ -1,4 +1,4 @@
-# ATpeoto Login Demo
+# AT Protocol Login Demo
 
 A live demo that shows how to **log in with an [AT Protocol](https://atproto.com) identity** (the decentralized identity layer behind Bluesky and other sites) using [Startup API](https://startupapi.com).
 
