@@ -11,7 +11,7 @@
     "cf-typegen": "wrangler types"
   },
   "dependencies": {
-    "@startup-api/cloudflare": "^0.4.0"
+    "@startup-api/cloudflare": "^0.4.1"
   },
   "devDependencies": {
     "wrangler": "^4.60.0"
