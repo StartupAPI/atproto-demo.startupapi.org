@@ -2,7 +2,7 @@ import { createStartupAPI } from "@startup-api/cloudflare";
 
 const api = createStartupAPI({
   providers: {
-    atproto: {},
+    atproto: { scopes: "account:email" },
   },
 });
 
